@@ -1,6 +1,6 @@
 # 🧑‍💻 Otávio Rodrigues de Oliveira
 
-**`Téc em Desenvolvimento de Sistemas`**
+**`Téc. em Desenvolvimento de Sistemas`**
 
 Me chamo Otávio Rodrigues, tenho 17 anos e sou natural de Goiás, atualmente morando em Uberlândia – MG. <br>
 Curso Técnico em Desenvolvimento de Sistemas no IFTM. <br>
