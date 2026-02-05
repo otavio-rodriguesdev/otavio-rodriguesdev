@@ -62,5 +62,11 @@ Atualmente estou estudando e me aprofundando em:
 - 🗄️ Banco de Dados (MySQL e PostgreSQL)
 - 🔧 Git e GitHub
 
-![Minha cobrinha dark](https://raw.githubusercontent.com/otavio-rodriguesdev/otavio-rodriguesdev/output/dist/github-contribution-grid-snake-dark.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+
 
