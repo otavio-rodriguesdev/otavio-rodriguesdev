@@ -61,3 +61,5 @@ Atualmente estou estudando e me aprofundando em:
 - 🐍 Python
 - 🗄️ Banco de Dados (MySQL e PostgreSQL)
 - 🔧 Git e GitHub
+
+![Snake animation](https://raw.githubusercontent.com/otavio-rodriguesdev/otavio-rodriguesdev/output/github-contribution-grid-snake.svg)
