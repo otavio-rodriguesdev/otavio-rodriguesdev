@@ -2,9 +2,9 @@
 
 **`Téc. em Desenvolvimento de Sistemas`**
 
-Me chamo Otávio Rodrigues, tenho 17 anos e sou natural de Goiás, atualmente morando em Uberlândia – MG. <br>
-Curso Técnico em Desenvolvimento de Sistemas no IFTM. <br>
-Atuo como Analista de Sistemas Jr, desenvolvendo soluções com foco em agentes de IA. <br>
+Me chamo Otávio Rodrigues, tenho 17 anos, sou natural de Goiás e atualmente morando em Uberlândia – MG. <br>
+Curso Técnico em Desenvolvimento de Sistemas no IFTM – Campus Uberlândia Centro. <br>
+Atuo há um ano como Analista de Sistemas Jr, desenvolvendo soluções com foco em agentes de IA. <br>
 Sou apaixonado por tecnologia, inovação e desafios, sempre buscando evoluir e criar soluções que façam a diferença. 🚀
 
 <div align="left">
