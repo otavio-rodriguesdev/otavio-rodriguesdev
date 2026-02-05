@@ -63,9 +63,9 @@ Atualmente estou estudando e me aprofundando em:
 - 🔧 Git e GitHub
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<otavio-rodriguesdev>/<otavio-rodriguesdev>/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<otavio-rodriguesdev>/<otavio-rodriguesdev>/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/<otavio-rodriguesdev>/<otavio-rodriguesdev>/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otavio-rodriguesdev/otavio-rodriguesdev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otavio-rodriguesdev/otavio-rodriguesdev/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/otavio-rodriguesdev/otavio-rodriguesdev/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 
